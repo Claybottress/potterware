@@ -1,0 +1,66 @@
+; ////PARAMETERS////
+
+; Printer Type: 0
+;     Potterbot Standard   = 0
+;     Lutum                = 1
+;     WASP Delta           = 2
+;     3DPotter SCARA       = 3
+;     Potterbot Duet       = 4
+;     Potterbot Duet Micro = 5
+;     Potterbot Duet XL    = 6
+; Printer Speed %: 100
+; Extrusion Speed %: 100
+; Layer Height: 1.5
+; Height: 85
+; Base Layers: 2
+; Base Layer Spacing: 2.74
+; Scale Base: 0.95
+; Skirt Offset: 17
+; Scale X: 1
+; Scale Y: 1
+; Profile: 0
+;     Smooth Profile  = 0
+;     Angular Profile = 1
+; A: 60
+; B: 70
+; C: 80
+; D: 80
+; E: 80
+; Wavetype: 3
+;     None      = 0
+;     Sinewave  = 1
+;     Saw tooth = 2
+;     Square    = 3
+;     Jitter    = 4
+; Planar Amplitude: 6
+; Planar Repetitions: 30
+; Interior Wave Offset: 1.5
+; Twist: 26
+; Cycle: 1
+; Spacing: 4
+; Planar Starting %: 0
+; Planar Ending %: 100
+; Jitter Seed: 76
+; NonPlanar Wave Type: 0
+;     None      = 0
+;     Sinewave  = 1
+;     Saw tooth = 2
+;     Square    = 3
+;     Jitter    = 4
+; NonPlanar Effect Gradient: 0
+;     Increasing to top    = 0
+;     Increasing to middle = 1
+; NonPlanar Amplitude: 12
+; NonPlanar Repetitions: 14
+; NonPlanar Starting %: 0
+; NonPlanar Ending%: 100
+; SCARA X Position: 515
+; SCARA Y Position: 25
+; Print Multiple: 0
+;     Single Print = 0
+;     Multi Print  = 1
+; X Count: 2
+; Y Count: 2
+; SCARA Count: 10
+; MultiPrint Retract Height: 5
+; MultiPrint Spacing: 35
